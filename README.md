@@ -1,7 +1,5 @@
 # <b> Overview </b>
-This repository houses various documents for a project. The project involved an extensive analysis of different movie datasets, which are included in the 'zippedfolder'
-folder of the repository. The respository's main features of interest are a Jupyter notebook (titled student.ipynb) and a presentation, which house the coding and 
-results of the movie data analysis. There is also an ERD schematic of the im.db SQL database, which was a prominent source of data used.
+This repository houses various documents for a project. The project involved an extensive analysis of different movie datasets. The respository's main features of interest are a Jupyter notebook (titled student.ipynb) and a presentation, which house the coding and results of the movie data analysis. There is also an ERD schematic of the im.db SQL database, which was a prominent source of data used.
 
 # <b> Business Context </b>
 Generally-speaking, this repository is applicable to up-and-coming movie studios that are beginning their journey in the film industry and are not sure where to begin.
